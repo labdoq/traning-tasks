@@ -1,2 +1,2 @@
-# psychic-octo-goggles
+# traning-tasks
 Completed Python traning tasks from some resources 
